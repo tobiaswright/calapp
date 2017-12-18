@@ -6,3 +6,23 @@ body {
 a {
   color: #00B7FF;
 }
+
+.logo {
+  width: 200px;
+  background-color: red;
+  /* background-image: url('http://www.startrekcontinues.com/images/dept06lg.jpg'); */
+}
+
+h2 {
+  margin-bottom: 40px
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin-bottom:40px
+}
+
+h3 {
+  margin-top: 40px
+}
